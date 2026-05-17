@@ -91,8 +91,8 @@ def create_animated_preview():
             draw.line([210, laser_y, 790, laser_y], fill="#ff6b00", width=2)
 
         # Draw Crosshair cursor (+)
-        draw.line([cursor_x - 10, cursor_y, cursor_x + 10, cursor_y], fill="#ff6b00", width=1.5)
-        draw.line([cursor_x, cursor_y - 10, cursor_x, cursor_y + 10], fill="#ff6b00", width=1.5)
+        draw.line([cursor_x - 10, cursor_y, cursor_x + 10, cursor_y], fill="#ff6b00", width=2)
+        draw.line([cursor_x, cursor_y - 10, cursor_x, cursor_y + 10], fill="#ff6b00", width=2)
         draw.ellipse([cursor_x - 3, cursor_y - 3, cursor_x + 3, cursor_y + 3], outline="#ff6b00", width=1)
 
         # Stats Overlay (Top-Right of canvas)

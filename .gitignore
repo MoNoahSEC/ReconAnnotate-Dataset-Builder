@@ -1,0 +1,20 @@
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.venv/
+venv/
+ENV/
+env/
+
+# IDE files
+.vscode/
+.idea/
+
+# Local autosaves and temporary files
+.annotation_tool_autosave.json
+.DS_Store
+*.tmp
+*.log

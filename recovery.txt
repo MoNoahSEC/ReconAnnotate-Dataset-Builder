@@ -1,0 +1,2 @@
+"\"\"\"\nPremium Orange and White stylesheet for PyQt6.\nCreates an ultra-clean, smart, and dynamic interface.\n\"\"\"\n\n# ألوان النظام الدافئة (الأبيض المائل للبرتقالي والبرتقالي الصناعي المشر
+<truncated 13358 bytes>
